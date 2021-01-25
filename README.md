@@ -12,4 +12,5 @@
 
 ### <h1 align="center">My achievements</h1>
 
-<img align="center" alt="1." width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/Сертификат%20213.jpg">
+<img align="center" alt="1." width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg">
+<img align="center" alt="1." width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg">
