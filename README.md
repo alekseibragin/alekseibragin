@@ -10,4 +10,6 @@
 - 📫 How to reach me: **bragin.alexey@gmail.com**
 - ⚡ Fun fact: Love volleyball, chess, reading books
 
+### <h1 align="center">My achievements/h1>
 
+<img align="right" alt="1." width="400" src="https://mfd.sk/vgSmCP9vfEqRti-yibp2058U">
