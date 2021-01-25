@@ -10,6 +10,6 @@
 - 📫 How to reach me: **bragin.alexey@gmail.com**
 - ⚡ Fun fact: Love volleyball, chess, reading books
 
-### <h1 align="center">My achievements</h1>
+### <h1 align="center">My achievements/h1>
 
-<img align="right" alt="1." width="400" src="https://disk.megafon.ru/drive/Документы?file=Сертификат%20213.jpg">
+<img align="right" alt="1." width="400" src="https://github.com/alekseibragin/alekseibragin/blob/main/Сертификат%20213.jpg">
