@@ -12,7 +12,5 @@
 
 ### <h1 align="center">My achievements</h1>
 
-<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg" alt="1." />                          align="center" <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg" slt="2." /> </p>
+<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg" alt="1." />                                   <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg" slt="2." /> </p>
 
-<img align="center" alt="1." width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg">
-<img align="center" alt="2." width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg">
