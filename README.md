@@ -21,5 +21,6 @@
 
 <p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/data_science_championship.jpg" slt="1." />                                     <img width="197" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg" alt="2." />                                                      <img width="185" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg" slt="3." /> 
   <img width="206" src="https://github.com/alekseibragin/alekseibragin/blob/main/сертификаты участников.Иннотех.jpg" slt="4." />
-<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/YandexCloud2020.jpg" slt="5." /></p>
+<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/YandexCloud2020.jpg" slt="5." />
+<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/ВШЭ.jpg" slt="6." /></p>
 
