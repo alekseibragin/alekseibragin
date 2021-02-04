@@ -28,5 +28,9 @@
 
 1. Detecting pneumonia from X-ray images - https://youtu.be/uydoAeMBUB4
 <p align="center"> <img width="600" src="https://j.gifs.com/xnY0MP.gif"/> </p>
-
+2. GAN (music) 
+3. Find person service
+4. Converting audio to text
+5. Analisis of text big data
+6. Prediction of salary on resume
 
