@@ -26,4 +26,4 @@
 
 ### <h1 align="center">My projects</h1>
 
-<iframe width="560" height="315" src="https://youtu.be/uydoAeMBUB4" frameborder="0" allowfullscreen></iframe>
+1. Detecting pneumonia from X-ray images - https://youtu.be/uydoAeMBUB4
