@@ -26,4 +26,4 @@
 
 ### <h1 align="center">My projects</h1>
 
-<video align="center" alt="Detecting pneumonia" width="400" src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mov" controls></video>
+<video src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mov" controls></video>
