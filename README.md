@@ -28,9 +28,15 @@
 
 - Detecting pneumonia from X-ray images - https://youtu.be/uydoAeMBUB4
 <p align="center"> <img width="600" src="https://j.gifs.com/xnY0MP.gif"/> </p>
+
 - GAN (music) 
+
 - Find person service
+
 - Converting audio to text
+
 - Analisis of text big data
+
 - Prediction of salary on resume
+
 
