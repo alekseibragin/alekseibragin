@@ -26,15 +26,4 @@
 
 ### <h1 align="center">My projects</h1>
 
-
-<div align="center">
- 
-<script type="text/javascript">
-  flowplayer("player",  "https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mov",
-  {
-    clip: {
-        autoPlay: false, 
-    }
-});
-</script>
-</div>
+<iframe width="560" height="315" src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mov" frameborder="0" allowfullscreen></iframe>
