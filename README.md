@@ -26,4 +26,4 @@
 
 ### <h1 align="center">My projects</h1>
 
-<img align="center" alt="SberCloudAdvancedHacking" width="400" src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mov">
+<video align="center" alt="SberCloudAdvancedHacking" width="400" src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mov">
