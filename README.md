@@ -26,4 +26,4 @@
 
 ### <h1 align="center">My projects</h1>
 
-<iframe width="560" height="315" src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mov" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/uydoAeMBUB4" frameborder="0" allowfullscreen></iframe>
