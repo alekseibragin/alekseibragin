@@ -27,3 +27,15 @@
 ### <h1 align="center">My projects</h1>
 
 <video src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mov" controls></video>
+
+<div align="center">
+ 
+<script type="text/javascript">
+  flowplayer("player",  "https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mov",
+  {
+    clip: {
+        autoPlay: false, 
+    }
+});
+</script>
+</div>
