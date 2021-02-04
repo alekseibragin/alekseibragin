@@ -24,3 +24,6 @@
 <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/YandexCloud2020.jpg" slt="5." />
 <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/ВШЭ.jpg" slt="6." /></p>
 
+### <h1 align="center">My projects</h1>
+
+<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mp4" slt="1." />                                   </p>
