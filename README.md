@@ -27,6 +27,6 @@
 ### <h1 align="center">My projects</h1>
 
 1. Detecting pneumonia from X-ray images - https://youtu.be/uydoAeMBUB4
-<img width="600" src="https://j.gifs.com/WL5ENn.gif"/>
+<p align="center"> <img width="600" src="https://j.gifs.com/WL5ENn.gif"/> </p>
 
 
