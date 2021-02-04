@@ -19,11 +19,11 @@
 
 ### <h1 align="center">My achievements</h1>
 
-<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/data_science_championship.jpg" slt="1." />                                     <img width="197" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg" alt="2." />                                                      <img width="185" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg" slt="3." /> 
-  <img width="206" src="https://github.com/alekseibragin/alekseibragin/blob/main/сертификаты участников.Иннотех.jpg" slt="4." />
-<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/YandexCloud2020.jpg" slt="5." />
-<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/ВШЭ.jpg" slt="6." /></p>
+<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/data_science_championship.jpg" alt="1." />                                     <img width="197" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg" alt="2." />                                                      <img width="185" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg" alt="3." /> 
+  <img width="206" src="https://github.com/alekseibragin/alekseibragin/blob/main/сертификаты участников.Иннотех.jpg" alt="4." />
+<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/YandexCloud2020.jpg" alt="5." />
+<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/ВШЭ.jpg" alt="6." /></p>
 
 ### <h1 align="center">My projects</h1>
 
-<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mp4" slt="1." />                                   </p>
+<img align="center" alt="SberCloudAdvancedHacking" width="400" src="https://github.com/alekseibragin/alekseibragin/blob/main/detect_pneumonia_presentation.mp4">
