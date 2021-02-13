@@ -36,7 +36,6 @@
 
 - Converting audio to text - https://youtu.be/32CEnmqFqO0
 <p align="center"> <img width="600" src="https://j.gifs.com/VAYvkz.gif"/> </p>
-<p align="center"> <img width="600" src="https://j.gifs.com/xnY0MP.gif"/> </p>
 
 - Analisis of text big data
 
