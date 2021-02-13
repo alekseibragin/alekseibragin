@@ -22,7 +22,8 @@
 <p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/data_science_championship.jpg" alt="1." />                                     <img width="197" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg" alt="2." />                                                      <img width="185" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg" alt="3." /> 
   <img width="206" src="https://github.com/alekseibragin/alekseibragin/blob/main/сертификаты участников.Иннотех.jpg" alt="4." />
 <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/YandexCloud2020.jpg" alt="5." />
-<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/ВШЭ.jpg" alt="6." /></p>
+<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/ВШЭ.jpg" alt="6." />
+<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/hackatom2021.jpg" alt="7." /></p>
 
 ### <h1 align="center">My projects</h1>
 
