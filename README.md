@@ -35,7 +35,7 @@
 - Find person service
 
 - Converting audio to text - https://youtu.be/32CEnmqFqO0
-<p align="center"> <img width="600" src="https://j.gifs.com/VAYvkz.gif"/> </p>
+<p align="center"> <img width="600" src="https://j.gifs.com/VAYv9z.gif"/> </p>
 
 - Analisis of text big data
 
