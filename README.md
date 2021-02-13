@@ -32,7 +32,8 @@
 
 - GAN (music) 
 
-- Find person service
+- Find person service - https://youtu.be/OTSIGI8Fxh8
+<p align="center"> <img width="600" src="https://j.gifs.com/mOAq99.gif"/> </p>
 
 - Converting audio to text - https://youtu.be/32CEnmqFqO0
 <p align="center"> <img width="600" src="https://j.gifs.com/VAYv9z.gif"/> </p>
