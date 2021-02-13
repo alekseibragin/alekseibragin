@@ -23,7 +23,7 @@
   <img width="206" src="https://github.com/alekseibragin/alekseibragin/blob/main/сертификаты участников.Иннотех.jpg" alt="4." />
 <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/YandexCloud2020.jpg" alt="5." />
 <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/ВШЭ.jpg" alt="6." />
-<img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/hackatom2021.jpg" alt="7." /></p>
+<img width="400" src="https://github.com/alekseibragin/alekseibragin/blob/main/hackatom2021.jpg" alt="7." /></p>
 
 ### <h1 align="center">My projects</h1>
 
