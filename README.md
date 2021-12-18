@@ -20,7 +20,7 @@
 
 ### <h1 align="center">My achievements</h1>
 
-<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327 (3).JPG"" alt="1." /> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327 (2).JPG"" alt="1." /> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/Алексей Брагин_Сколково_1221.JPG" alt="1." />   <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327 (1).JPG" alt="1." />  
+<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327 (3).JPG"" alt="1." /> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327 (2).JPG"" alt="1." /> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/АлексейБрагин_Сколково_1221.JPG" alt="1." />   <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327 (1).JPG" alt="1." />  
 <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327.JPG" alt="1." />  
 <p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/data_science_championship.jpg" alt="2." />                                     <img width="197" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg" alt="3." />                                                      <img width="185" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg" alt="3." /> 
   <img width="206" src="https://github.com/alekseibragin/alekseibragin/blob/main/сертификаты участников.Иннотех.jpg" alt="4." />
