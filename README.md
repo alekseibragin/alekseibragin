@@ -20,7 +20,7 @@
 
 ### <h1 align="center">My achievements</h1>
 
-<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/mch2022_1.JPG"" alt="1." /> <img width="200" 
+<p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/mch2022_1.jpg"" alt="1." /> <img width="200" 
 src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327 (3).JPG"" alt="1." /> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327 (2).JPG"" alt="1." /> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/АлексейБрагинСколково_1221.jpg" alt="1." />  <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/Pythoness.jpg" alt="1." />  <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327 (1).JPG" alt="1." />  
 <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6487327.JPG" alt="1." />  <img width="400" src="https://github.com/alekseibragin/alekseibragin/blob/main/fitm.jpeg" alt="1." />   <img width="400" src="https://github.com/alekseibragin/alekseibragin/blob/main/image_6483441.JPG" alt="1." />  
 <p align="center"> <img width="200" src="https://github.com/alekseibragin/alekseibragin/blob/main/data_science_championship.jpg" alt="2." />                                     <img width="197" src="https://github.com/alekseibragin/alekseibragin/blob/main/sbercloud.jpg" alt="3." />                                                      <img width="185" src="https://github.com/alekseibragin/alekseibragin/blob/main/rostrud.jpg" alt="3." /> 
